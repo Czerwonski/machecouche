@@ -4,7 +4,9 @@
   align-items: center;
   width:200px;
   height:200px;
-  top:50%;
-  left:50%;
-  background: #ffeb00;
+}
+
+#logo {
+  width:50%;
+  height:50%;
 }
